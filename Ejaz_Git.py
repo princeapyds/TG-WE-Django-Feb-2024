@@ -1,5 +1,8 @@
 print('Hello world')
-print('Hi')
+
 
 class C:
+    pass
+
+class D:
     pass
